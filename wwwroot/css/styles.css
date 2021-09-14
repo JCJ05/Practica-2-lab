@@ -10,7 +10,7 @@ html {
     box-sizing: inherit;
   }
 
-
+ 
   
 
 
@@ -65,10 +65,19 @@ html {
 
     img {
     
-        height: 60rem;
+        height: 50rem;
 
     }
 
+  }
+
+
+
+  .texto {
+
+    font-size: 4rem;
+    color: black;
+    text-align: end;
   }
 
 
